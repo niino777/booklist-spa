@@ -2,6 +2,8 @@
 
 SPA hecha con **Vue 3 + Vue Router 4 + Vue CLI** para gestionar un catálogo de libros (Módulo 6, Alkemy).
 
+Demo versión: https://niino777.github.io/booklist-spa/
+
 ## Cómo ejecutarla
 
 ```bash
