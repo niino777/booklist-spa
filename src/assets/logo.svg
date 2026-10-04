@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Logo provisorio">
+  <rect width="48" height="48" rx="10" fill="#1b2a4a"/>
+  <path d="M10 14c5-2 9-2 14 1v21c-5-3-9-3-14-1z" fill="#fff"/>
+  <path d="M38 14c-5-2-9-2-14 1v21c5-3 9-3 14-1z" fill="#c93c48"/>
+</svg>
